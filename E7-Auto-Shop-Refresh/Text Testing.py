@@ -13,4 +13,3 @@ pyautogui.PAUSE = 0.3
 pyautogui.FAILSAFE = True
 
 #%%Main
-image = 
